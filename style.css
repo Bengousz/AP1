@@ -2,7 +2,7 @@ html{
     padding: 0;
     margin: 0;
     font-family: 'Cascadia Code' , sans-serif;
-    background-image: url(../img/background.png);
+    background-image: url(./background.png);
     background-position: center center;
     background-size: cover;
     color: white;
